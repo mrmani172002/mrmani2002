@@ -9,5 +9,10 @@ public class GITDay1 {
 		System.out.println("Employee name is available");
 	}
 	
+	public static void main(String[] args) {
+		GITDay1 gd = new GITDay1();
+		gd.empId();
+		gd.empName();
+	}
 
 }
